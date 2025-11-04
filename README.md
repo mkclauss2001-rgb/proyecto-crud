@@ -5,7 +5,7 @@ Es ideal como ejemplo educativo o punto de partida para proyectos más complejos
 
 ---
 
-## 🚀 Características
+## Características
 - Crear nuevos registros
 - Listar registros existentes
 - Editar registros
